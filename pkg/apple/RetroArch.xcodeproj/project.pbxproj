@@ -553,7 +553,7 @@
 					"-DHAVE_GETOPT_LONG",
 				);
 				PREBINDING = NO;
-				SDKROOT = macosx;
+				SDKROOT = /Users/stuartcarnie/xcode/SDKs/MacOSX10.11.sdk;
 			};
 			name = Debug;
 		};
@@ -617,7 +617,7 @@
 					"-DHAVE_GETOPT_LONG",
 				);
 				PREBINDING = NO;
-				SDKROOT = macosx;
+				SDKROOT = /Users/stuartcarnie/xcode/SDKs/MacOSX10.11.sdk;
 			};
 			name = Release;
 		};
